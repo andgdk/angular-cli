@@ -48,8 +48,8 @@ importers:
         specifier: 20.1.0-next.1
         version: 20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))
       '@angular/platform-server':
-        specifier: 20.1.0-next.1
-        version: 20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/compiler@20.1.0-next.1)(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)
+        specifier: 20.3.0
+        version: 20.3.0(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/compiler@20.1.0-next.1)(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)
       '@angular/router':
         specifier: 20.1.0-next.1
         version: 20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)
@@ -539,8 +539,8 @@ importers:
         specifier: 20.1.0-next.1
         version: 20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))
       '@angular/platform-server':
-        specifier: 20.1.0-next.1
-        version: 20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/compiler@20.1.0-next.1)(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)
+        specifier: 20.3.0
+        version: 20.3.0(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/compiler@20.1.0-next.1)(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)
       '@angular/router':
         specifier: 20.1.0-next.1
         version: 20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)
@@ -996,14 +996,14 @@ packages:
       '@angular/animations':
         optional: true
 
-  '@angular/platform-server@20.1.0-next.1':
-    resolution: {integrity: sha512-a0EbkoM6kavVR1GOzPEbD457OAXSlJNBQHXOmheyLFwBHPAiKJXwiFE3DT4pjsoVYdmINRhey95Nac7lcHEGZg==}
+  '@angular/platform-server@20.3.0':
+    resolution: {integrity: sha512-ixPyu3JEY3sgyvUdCqRbaZZA9M6KWGLZoiJPN4IszwcwCFUp3E5XOZ7mvSLzR+ZUYUml+z6ehtSPg2PM+e+CEQ==}
     engines: {node: ^20.19.0 || ^22.12.0 || >=24.0.0}
     peerDependencies:
-      '@angular/common': 20.1.0-next.1
-      '@angular/compiler': 20.1.0-next.1
-      '@angular/core': 20.1.0-next.1
-      '@angular/platform-browser': 20.1.0-next.1
+      '@angular/common': 20.3.0
+      '@angular/compiler': 20.3.0
+      '@angular/core': 20.3.0
+      '@angular/platform-browser': 20.3.0
       rxjs: ^6.5.3 || ^7.4.0
 
   '@angular/router@20.1.0-next.1':
@@ -6759,7 +6759,7 @@ packages:
   puppeteer@18.2.1:
     resolution: {integrity: sha512-7+UhmYa7wxPh2oMRwA++k8UGVDxh3YdWFB52r9C3tM81T6BU7cuusUSxImz0GEYSOYUKk/YzIhkQ6+vc0gHbxQ==}
     engines: {node: '>=14.1.0'}
-    deprecated: < 22.8.2 is no longer supported
+    deprecated: < 24.10.2 is no longer supported
 
   q@1.4.1:
     resolution: {integrity: sha512-/CdEdaw49VZVmyIDGUQKDDT53c7qBkO6g5CefWz91Ae+l4+cRtcDYwMTXh6me4O8TMldeGHG3N2Bl84V78Ywbg==}
@@ -8371,7 +8371,7 @@ snapshots:
     optionalDependencies:
       '@angular/animations': 20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))
 
-  '@angular/platform-server@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/compiler@20.1.0-next.1)(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)':
+  '@angular/platform-server@20.3.0(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/compiler@20.1.0-next.1)(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/platform-browser@20.1.0-next.1(@angular/animations@20.1.0-next.1(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@angular/common@20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1)))(rxjs@7.8.2)':
     dependencies:
       '@angular/common': 20.1.0-next.1(@angular/core@20.1.0-next.1(@angular/compiler@20.1.0-next.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2)
       '@angular/compiler': 20.1.0-next.1
