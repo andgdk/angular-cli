@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@angular-devkit/schematics": "workspace:*",
-    "@angular/common": "20.1.0-next.1",
+    "@angular/common": "20.3.14",
     "@angular/compiler": "20.1.0-next.1",
     "@angular/core": "20.1.0-next.1",
     "@angular/platform-browser": "20.1.0-next.1",
